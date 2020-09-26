@@ -7,6 +7,11 @@
     <groupId>cl.crised</groupId>
     <artifactId>eureka_server_client</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+<!--        <module>eureka-client</module>-->
+        <module>eureka-server</module>
+    </modules>
 
 
 </project>
